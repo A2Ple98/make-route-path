@@ -24,7 +24,7 @@ npm install @hammam_dev/make-route-path --save
 ```
 
 ```bash
-yard add @hammam_devmake-route-path
+yard add @hammam_dev/make-route-path
 ```
 
 ## Arguments
