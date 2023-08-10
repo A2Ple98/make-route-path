@@ -1,11 +1,14 @@
-[![NPM](https://img.shields.io/npm/v/make-route-path.svg)](https://www.npmjs.com/package/make-route-path)
+[![NPM](https://img.shields.io/npm/v/@hammam_dev/make-route-path.svg)](https://www.npmjs.com/package/@hammam_dev/make-route-path)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-[![Badges](https://badgen.net/npm/license/make-route-path)](https://www.npmjs.com/package/make-route-path)
-[![Badges](https://badgen.net/npm/dependents/make-route-path)](https://www.npmjs.com/package/make-route-path)
-[![Badges](https://badgen.net/npm/types/make-route-path)](https://www.npmjs.com/package/make-route-path)
-[![Badges](https://badgen.net/github/issues/kolengri/make-route-path)](https://www.npmjs.com/package/make-route-path)
-[![Badges](https://badgen.net/bundlephobia/min/make-route-path)](https://bundlephobia.com/result?p=make-route-path)
-[![Badges](https://badgen.net/bundlephobia/minzip/make-route-path)](https://bundlephobia.com/result?p=make-route-path)
+[![Badges](https://badgen.net/npm/license/@hammam_dev/make-route-path)](https://www.npmjs.com/package/@hammam_dev/make-route-path)
+[![Badges](https://badgen.net/npm/dependents/@hammam_dev/make-route-path)](https://www.npmjs.com/package/@hammam_dev/make-route-path)
+[![Badges](https://badgen.net/npm/types/@hammam_dev/make-route-path)](https://www.npmjs.com/package/@hammam_dev/make-route-path)
+[![Badges](https://badgen.net/github/issues/A2Ple98/make-route-path)](https://www.npmjs.com/package/@hammam_dev/make-route-path)
+[![Badges](https://badgen.net/bundlephobia/min/@hammam_dev/make-route-path)](https://bundlephobia.com/result?p=@hammam_dev/make-route-path)
+[![Badges](https://badgen.net/bundlephobia/minzip/@hammam_dev/make-route-path)](https://bundlephobia.com/result?p=@hammam_dev/make-route-path)
+
+# Fork
+This is a fork, I just updated the versions. All credit goes to https://github.com/kolengri.
 
 # Make route path
 
@@ -17,11 +20,11 @@ The makeRoutePath function can be used to generate URLs to the routes. The packa
 Results of compiling paths into regular expressions are cached, so there is no overhead on generating multiple paths with the same pattern.
 
 ```bash
-npm install make-route-path --save
+npm install @hammam_dev/make-route-path --save
 ```
 
 ```bash
-yard add make-route-path
+yard add @hammam_devmake-route-path
 ```
 
 ## Arguments

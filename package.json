@@ -1,13 +1,13 @@
 {
-  "name": "make-route-path",
+  "name": "@hammam_bm/make-route-path",
   "version": "2.1.0",
-  "description": "Make type safe routes everywhere",
+  "description": "[Fork of make-route-path] Make type safe routes everywhere",
   "module": "dist/make-route-path.esm.js",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
-  "author": "Grigoriy Kolenko <kolenko@me.com>",
-  "repository": "kolengri/make-route-path",
+  "author": "Hammam Boutafant Mouhib",
+  "repository": "A2Ple98/make-route-path",
   "keywords": [
     "typescript",
     "react-router",
